@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=Device-width,Initial-scale=1.0">
 </head>
 <body>
-   <h1>Menu de opciones:</h1>
+   <h1>Opciones</h1>
    <a href="/Video/Create">Agregar Video</a>
    
 </body>
